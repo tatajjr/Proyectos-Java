@@ -1,0 +1,46 @@
+Programacion Test 4 Pregunta Corta 3 Caso Practico 3
+T1
+*Tipos de datos primitivos
+*Componentes de IDE
+T2
+*Bloque de código//Lenguajes de programación
+*Identificadores, variables y constantes
+*Operadores logicos AND && OR || NOT !
+*Casting implicitos(solo java) explicito(hace usuario)
+double Math.random();
+int a = (int)(Math.random()*10);
+*Comentarios de codigo // /*xxxxxxx*/
+T3
+*Diagrama de flujo
+*Sentencias de eleccion
+*If , if else, else
+*Switch, cases, break, default
+*Diferencias do while=Va a realizarse la funcion dentro del codigo por lo menos una vez.
+ while= No se sabe si va a realizarse la funcion, es decir, puedo realizar la funcion o no.
+*For(sabes el numero determinado de veces que se va a repetir el bulce)
+*Equivalencia entre bucles*****
+*Condiciones Multiples
+*Sentencias de salto
+*Metodos funciones
+T4
+*Arrays
+*Cadenas de caracteres
+*Metodos(Saber los que hemos utilizado en clase a nivel practico)
+T5
+*POO(Programacion oreintada a objetos)
+Que es un objeto/clase
+*Ventajas e inconvenientes
+T6
+*atributos
+*metodos
+*constructores
+*metodo to String
+
+
+----------
+Numericos
+Enteros//Reales
+Alfanumericos
+Char='s'//String='HOLA'
+Booleanos
+------------------------

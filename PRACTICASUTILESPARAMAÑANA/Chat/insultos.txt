@@ -1,0 +1,17 @@
+gilipollas;maravilloso
+cabron;maquina
+Desagradable;Amable
+Irrespetuoso;Respetuoso
+Desorganizado;Organizado
+Ineficiente;Eficiente
+Interesado;Generoso
+Desinteresado;Cortés
+Egoísta;Confiable
+Descortés;Sensible
+Desconfiado;Leal
+
+
+
+
+
+

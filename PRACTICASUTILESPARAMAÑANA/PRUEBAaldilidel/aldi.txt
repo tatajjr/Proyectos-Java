@@ -1,0 +1,2 @@
+cafe 10
+miel 5
